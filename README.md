@@ -8,10 +8,10 @@ Python based pornhub username checker
 - Download the latest release, open command prompt in the folder, run `pip install -r requirements.txt`
 - Load your HTTP(S) proxies in proxies.txt
 - Open tool and select threads amount (Recommended under 400)
+- Load your usernames in usernames.txt
 
 ### Usage
 
 - HTTP(S) Proxies are required
 - Free proxies won't work
-- email:pass combo only
 - Captures 6+ character names only
